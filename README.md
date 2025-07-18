@@ -149,6 +149,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 **YOGITA BISHT**  
 🌐 [GitHub](https://github.com/Yogita2002Bisht)  
-📬 Feel free to fork or raise issues to contribute!
+📬 Feel free to work or raise issues to contribute!
 
 ---
